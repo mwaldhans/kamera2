@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+debug.log
+
+snapshot_*.jpg
+test_snapshot.jpg
+
+face_data.pkl
+face_database.pkl
+
+.DS_Store
+Thumbs.db
